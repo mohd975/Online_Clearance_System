@@ -1,0 +1,20 @@
+table {
+  border-radius: 10px;
+  overflow: hidden;
+  font-size: 14px;
+}
+
+thead th {
+  background-color: #343a40;
+  color: white;
+}
+
+.badge {
+  font-size: 0.8rem;
+  padding: 5px 10px;
+  border-radius: 12px;
+}
+
+button {
+  transition: all 0.3s ease-in-out;
+}

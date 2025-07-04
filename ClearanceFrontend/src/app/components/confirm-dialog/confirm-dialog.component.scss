@@ -1,0 +1,26 @@
+
+.confirm-dialog {
+  text-align: center;
+
+  .dialog-icon {
+    font-size: 40px;
+    color: #fbc02d;
+    margin-bottom: 10px;
+  }
+
+  h2 {
+    margin-top: 0;
+    font-weight: 600;
+  }
+
+  mat-dialog-content {
+    margin: 1rem 0;
+    font-size: 1.1rem;
+  }
+
+  mat-dialog-actions {
+    button {
+      margin-left: 10px;
+    }
+  }
+}
